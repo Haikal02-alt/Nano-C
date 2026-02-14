@@ -6,4 +6,4 @@ Nano C Is A Programming Language Created By Hai_kal02 Which Is On Nano OS
 
 On Nano OS type nanoc filename then it open nanoc
 
-(Nano C Is A GNU Nano Based Programming Language)
+(Nano C Is A GNU Nano Based C Also Called C In Nano Or Nano based C Programming Language)
